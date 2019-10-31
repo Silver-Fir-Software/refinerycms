@@ -1,6 +1,5 @@
 # Encoding: UTF-8
 
-
 Gem::Specification.new do |s|
   s.platform          = Gem::Platform::RUBY
   s.name              = %q{refinerycms-dragonfly}
